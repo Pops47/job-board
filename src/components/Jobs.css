@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 60px;
+}
+
+.job {
+  width: calc((100% - 4 * 20px) / 3);
+  height: 200px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}

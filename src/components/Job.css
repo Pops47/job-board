@@ -1,0 +1,34 @@
+.job-container {
+  border: solid black 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.job-bottom {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.cyan {
+  border-color: cyan;
+}
+
+.yellow {
+  border-color: yellow;
+}
+
+.red {
+  border-color: red;
+}
+
+.green {
+  border-color: green;
+}
+
+.pink {
+  border-color: pink;
+}
